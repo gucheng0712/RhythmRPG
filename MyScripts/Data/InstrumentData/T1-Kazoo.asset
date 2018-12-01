@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0c557dce2274c3faa0bc26fae8913e, type: 3}
+  m_Name: T1-Kazoo
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 343eef0b345894764a77863800e76f6e, type: 3}
+  lockedIcon: {fileID: 21300000, guid: 82c8c144393544f5abc01f173ed23889, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: ebf8358c5403245ba9bb76b429be1636, type: 3}
+  iconWithPlayer: {fileID: 21300000, guid: 1be8db8b56c10bd4abd5a0a0a6dbd7ce, type: 3}
+  instrumentAnim: {fileID: 7400000, guid: 12c093c0e6135c648a006ac502ff4235, type: 2}
+  id: 0
+  itemName: Kazoo
+  description: Kind of like a harmonica, only it sounds less good.
+  price: 50
+  abilityName: 
+  soldMsg: 'd, I wish I had a mouth. . '
+  chorusChart: 1
+  ambientBonus: 0
+  experimentalBonus: 1
+  hipBonus: 0
+  loudBonus: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0c557dce2274c3faa0bc26fae8913e, type: 3}
+  m_Name: T3-FlamingSaxophone
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 26cc1d90b843c4892a122296e5cc8d6e, type: 3}
+  lockedIcon: {fileID: 21300000, guid: 8401aa0db9177467fae3041c011d79e9, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: e9c3009df7c5b4254916d195829b0822, type: 3}
+  iconWithPlayer: {fileID: 21300000, guid: 20b8c589b7864b34d903fc06c06d32a6, type: 3}
+  instrumentAnim: {fileID: 7400000, guid: 52eb6362a077adb4d951a5ec77fd03db, type: 2}
+  id: 9
+  itemName: Flaming Saxophone
+  description: Emits a powerful jet of flame with every note. Please toot responsibly.
+  price: 150
+  abilityName: 
+  soldMsg: 'We playing with real tools now son.  '
+  chorusChart: 2
+  ambientBonus: 0
+  experimentalBonus: 0
+  hipBonus: 3
+  loudBonus: 0

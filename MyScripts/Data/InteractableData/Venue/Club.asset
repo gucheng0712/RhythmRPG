@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dfc4139bb9908348b099826fb6b1124, type: 3}
+  m_Name: Club
+  m_EditorClassIdentifier: 
+  name: Club
+  type: VenueNight
+  destination: Club
+  interaction: Load
+  venueSongData: {fileID: 11400000, guid: af9655bba55229c4982f226b275a7828, type: 2}
+  buskingSongData: {fileID: 0}
+  ghostBuskingSongData: {fileID: 0}
+  requiredGroupyNum: 30
+  baseGoldReward: 200
+  closedNotification: Club is Closed During the Day Time!
+  prerequisiteNotification: You Need More Groupies to Perform at Club!
+  bg: {fileID: 21300000, guid: 6f8dcdc6e700d024ebea3a1d487ce3b2, type: 3}
+  playerIconPos: {x: 30, y: 4, z: 0}
+  venueColor: {r: 0.9716981, g: 0.8453996, b: 0, a: 0.5019608}
+  openPeriod: 1

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0c557dce2274c3faa0bc26fae8913e, type: 3}
+  m_Name: T4-MarbleMachine
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: e9ac92ab2bd2f6c42935d6553c3eebc5, type: 3}
+  lockedIcon: {fileID: 21300000, guid: 90a6e2be48b19994cb1725b3d4bc889c, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: c6be1226bcdc80d4e9374e2b7a6e06fd, type: 3}
+  iconWithPlayer: {fileID: 21300000, guid: c6be1226bcdc80d4e9374e2b7a6e06fd, type: 3}
+  id: 15
+  itemName: Marble Machine
+  description: A convoluted music machine operated with levers, pedals, and friendship.
+  price: 200
+  abilityName: 
+  soldMsg: Master-race
+  chorusChart: 0
+  ambientBonus: 2
+  experimentalBonus: 2
+  hipBonus: 0
+  loudBonus: 0

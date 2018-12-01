@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0c557dce2274c3faa0bc26fae8913e, type: 3}
+  m_Name: T4-CoolSword
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 41b4be0d49a89405a8001c06cf5c6163, type: 3}
+  lockedIcon: {fileID: 21300000, guid: 280a11d7e9ca741a78bdcb671e1abc7a, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: d502b5a8d77884114b3dfc88ad11e5bd, type: 3}
+  iconWithPlayer: {fileID: 21300000, guid: 4ecb3eea927767446b6cb53304257e46, type: 3}
+  instrumentAnim: {fileID: 7400000, guid: 15276bf708cf0c84b93d0130a52f5d22, type: 2}
+  id: 13
+  itemName: Cool Sword
+  description: "Not technically an instrument, but it\u2019s so cool that nobody will
+    care."
+  price: 200
+  abilityName: 
+  soldMsg: "I mean if you\u2019re actually gonna just GIVE this away then I\u2019ll
+    keep it."
+  chorusChart: 1
+  ambientBonus: 0
+  experimentalBonus: 4
+  hipBonus: 0
+  loudBonus: 0

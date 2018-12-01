@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0c557dce2274c3faa0bc26fae8913e, type: 3}
+  m_Name: T4-HolographicDoubleBanjo
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 37ba8c352b7915a4e93120a979489bce, type: 3}
+  lockedIcon: {fileID: 21300000, guid: 9fc7988161f8d4a43bd3b1b86996df2f, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: c8379360bd9fdbe4ca4f1f4243eb970e, type: 3}
+  iconWithPlayer: {fileID: 21300000, guid: 5768ed64c6e7b164a95448f8e9aa6d69, type: 3}
+  instrumentAnim: {fileID: 7400000, guid: dba99415ae65c8946ab47e56d4eed382, type: 2}
+  id: 14
+  itemName: Holographic Double Banjo
+  description: A hologram of a really cool banjo, now with twice the banjo.
+  price: 200
+  abilityName: none
+  soldMsg: "Gon use dis her' g\u2019itar."
+  chorusChart: 2
+  ambientBonus: 0
+  experimentalBonus: 2
+  hipBonus: 2
+  loudBonus: 0

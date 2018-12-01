@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d0a44e9baa044e28732072e26bfb86, type: 3}
+  m_Name: BarSong
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: f36f027bd8e11e4439c42d506d8b408c, type: 3}
+  id: 0
+  songName: BarSong
+  baseChartPath: BarRegular_AllDifficulty.chart
+  soloSections:
+  - startTime: 63
+    endTime: 86
+  - startTime: 127
+    endTime: 150
+  ambientChartPath: BarAMBIENT_SOLO_AllDiff.chart
+  experimentalChartPath: BarEXPERIMENTAL_SOLO_AllDiff.chart
+  hipChartPath: BarHIP_SOLO_AllDiff.chart
+  loudChartPath: BarLOUD_SOLO.chart

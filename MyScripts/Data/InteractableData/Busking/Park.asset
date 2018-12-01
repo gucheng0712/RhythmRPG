@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dfc4139bb9908348b099826fb6b1124, type: 3}
+  m_Name: Park
+  m_EditorClassIdentifier: 
+  name: Park
+  type: BuskingDay
+  destination: Park
+  interaction: Load
+  venueSongData: {fileID: 0}
+  buskingSongData: {fileID: 0}
+  ghostBuskingSongData: {fileID: 0}
+  requiredGroupyNum: 0
+  baseGoldReward: 0
+  closedNotification: Park is Closed During the Night Time!
+  prerequisiteNotification: Optional
+  bg: {fileID: 0}
+  playerIconPos: {x: 0, y: 0, z: 0}
+  openPeriod: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d0a44e9baa044e28732072e26bfb86, type: 3}
+  m_Name: RestaurantSong
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: c4b12bead304ae74d99e472b0090399a, type: 3}
+  id: 0
+  songName: RestaurantSong
+  baseChartPath: RestaurantRegular_AllDifficulty.chart
+  soloSections: []
+  ambientChartPath: Restaurant_AMBIENT_AllDifficulty.chart
+  experimentalChartPath: Restaurant_EXPERIMENTAL_AllDifficulty.chart
+  hipChartPath: Restaurant_HIP_AllDifficulty.chart
+  loudChartPath: Restaurant_LOUD.chart

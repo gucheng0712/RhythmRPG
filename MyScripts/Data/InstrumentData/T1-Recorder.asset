@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0c557dce2274c3faa0bc26fae8913e, type: 3}
+  m_Name: T1-Recorder
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7e4cafa2058f34192b8ecbca001f42a8, type: 3}
+  lockedIcon: {fileID: 21300000, guid: 2c5b1b69296a54f93833ead2e76498f2, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: 3bc63aaebdb774eb0a44d7829f69ffb7, type: 3}
+  iconWithPlayer: {fileID: 21300000, guid: f405a5030b6c4374f8305e2fef295200, type: 3}
+  instrumentAnim: {fileID: 7400000, guid: 058e73016a1803044af3ee1d32e768c3, type: 2}
+  id: 1
+  itemName: Recorder
+  description: The irritating little cousin of the woodwind family.
+  price: 50
+  abilityName: none
+  soldMsg: 'This will be a good stick for my dog. YEET '
+  chorusChart: 2
+  ambientBonus: 0
+  experimentalBonus: 0
+  hipBonus: 1
+  loudBonus: 0

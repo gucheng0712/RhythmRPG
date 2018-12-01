@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d0a44e9baa044e28732072e26bfb86, type: 3}
+  m_Name: ParkingLot
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 8225094e3c41f724fbad350daa2b66f8, type: 3}
+  id: 0
+  songName: ParkingLotSong
+  baseChartPath: Ready_Set_Go.chart
+  soloSections: []
+  ambientChartPath: w.chart
+  experimentalChartPath: w.chart
+  hipChartPath: w.chart
+  loudChartPath: w.chart

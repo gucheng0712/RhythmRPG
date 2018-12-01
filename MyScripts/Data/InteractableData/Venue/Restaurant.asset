@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dfc4139bb9908348b099826fb6b1124, type: 3}
+  m_Name: Restaurant
+  m_EditorClassIdentifier: 
+  name: Restaurant
+  type: VenueNight
+  destination: Restaurant
+  interaction: Load
+  venueSongData: {fileID: 11400000, guid: 9659edea1c5d2c94bbd5919b7f925dc2, type: 2}
+  buskingSongData: {fileID: 0}
+  ghostBuskingSongData: {fileID: 0}
+  requiredGroupyNum: 15
+  baseGoldReward: 150
+  closedNotification: Restaurant is Closed During the Day Time!
+  prerequisiteNotification: You Need More Groupies to Perform at Restaurant!
+  bg: {fileID: 21300000, guid: d0a44e572b3f89545b36b888c3fb34c6, type: 3}
+  playerIconPos: {x: -25, y: 240, z: 0}
+  venueColor: {r: 1, g: 0, b: 0.82385063, a: 0.5019608}
+  openPeriod: 1

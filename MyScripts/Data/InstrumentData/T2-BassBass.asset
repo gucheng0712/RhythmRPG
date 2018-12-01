@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0c557dce2274c3faa0bc26fae8913e, type: 3}
+  m_Name: T2-BassBass
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: f0d5b4801cfe1674d815fe5640bcd602, type: 3}
+  lockedIcon: {fileID: 21300000, guid: 463358e8903300648b1d40a3fa28d774, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: a96e2402a549f00418ed0cd3a0549064, type: 3}
+  iconWithPlayer: {fileID: 21300000, guid: b072e9d07100712489abd07a56dcefcd, type: 3}
+  instrumentAnim: {fileID: 7400000, guid: cd1442de44ef2de4daea88eb21b51393, type: 2}
+  id: 5
+  itemName: Bass Bass
+  description: A bass (instrument) shaped like a bass (fish). Or maybe the other way
+    around?
+  price: 100
+  abilityName: 
+  soldMsg: Yo, what if we just bOOST THIS REAL QUICK. SEE WHAT HAPPENS.
+  chorusChart: 1
+  ambientBonus: 1
+  experimentalBonus: 1
+  hipBonus: 0
+  loudBonus: 0

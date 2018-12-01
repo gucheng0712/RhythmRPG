@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dfc4139bb9908348b099826fb6b1124, type: 3}
+  m_Name: Bar
+  m_EditorClassIdentifier: 
+  name: Bar
+  type: VenueNight
+  destination: Bar
+  interaction: Load
+  venueSongData: {fileID: 11400000, guid: c00096339a6334743b698e165d935940, type: 2}
+  buskingSongData: {fileID: 0}
+  ghostBuskingSongData: {fileID: 0}
+  requiredGroupyNum: 0
+  baseGoldReward: 100
+  closedNotification: Bar is Closed During the Day Time!
+  prerequisiteNotification: You Need More Groupies to Perform at Bar!
+  bg: {fileID: 21300000, guid: bb5d6435063eefc43874168251ebd6ec, type: 3}
+  playerIconPos: {x: 550, y: 50, z: 0}
+  venueColor: {r: 0, g: 0.990566, b: 0.96116763, a: 0.5019608}
+  openPeriod: 1
